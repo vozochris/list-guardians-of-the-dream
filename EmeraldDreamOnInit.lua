@@ -5,11 +5,34 @@ aura_env.emerald_dream = {--2200
 }
 
 aura_env.emerald_dream_rares = {--2200
+    {name = "Bloodstripe Great Ray", quests = {77942}},
+    {name = "Crabtankerous", quests = {77862}},
     {name = "Envoy of Winter", quests = {77878}},
     {name = "Firebrand Fystia", quests = {78015}},
+    {name = "Fruitface", quests = {77846}},
     {name = "Greedy Gessie", quests = {77982}},
+    {name = "Henri Snufftail", quests = {77944}},
+    {name = "Ignit the Firebranded", quests = {77864}},
+    {name = "Isaqa", quests = {77989}},
+    {name = "Keen-eyed Cian", quests = {78211}},
+    {name = "Matriarch Keevah", quests = {78213}},
+    {name = "Moltenbinder's Disciple", quests = {77941}},
+    {name = "Molten Leadspike", quests = {77943}},
+    {name = "Moragh the Slothful", quests = {78210}},
+    {name = "Mosa Umbramane", quests = {77940}},
     {name = "Nuoberon", quests = {77570}},
+    {name = "Raszageth's Last Breath", quests = {77859}},
     {name = "Reefbreaker Moruud", quests = {77867}},
+    {name = "Ristar, the Rabid", quests = {77890}},
+    {name = "Somnambulant Ori", quests = {78212}},
+    {name = "Splinterlimb", quests = {77863}},
+    {name = "Surging Lasher", quests = {78263}},
+    {name = "Talthonei Ashwisper", quests = {77994}},
+    {name = "The Apostle", quests = {77990}},
+    {name = "Voracious Mikanji", quests = {78214}},
+
+    {name = "Elusive Blooming Brierhide", quests = {78394}},
+    {name = "Elusive Verdant Gladewarden", quests = {78397}},
 }
 
 aura_env.emerald_dream_treasures = {--2200
