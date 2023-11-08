@@ -39,13 +39,12 @@ aura_env.emerald_dream_rares = {--2200
 aura_env.emerald_dream_treasures = {--2200
     {name = "Crystalline Glowblossom", quests = {77950}},
     {name = "Hidden Moonkin Stash", quests = {77858}},
-    {name = "Magical Bloom", quests = {78033}},
+    {name = "Magical Bloom", quests = {78005}},
     {name = "Odd Burl", quests = {78006}},
     {name = "Pineshrew Cache", quests = {78120}},
     {name = "Reliquary of Aviana", quests = {78360}},
     {name = "Reliquary of Goldrinn", quests = {78361}},
     {name = "Reliquary of Ursol", quests = {78107}},
-    {name = "Reliquary of Ashamane", quests = {78508}},
-    {name = "Supply Crate", quests = {78005}},
+    {name = "Reliquary of Ashamane", quests = {78359}},
     {name = "Unwaking Echo", quests = {78547, 78550, 78551, 78552}, completed_on = 4},
 }
