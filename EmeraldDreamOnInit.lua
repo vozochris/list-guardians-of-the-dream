@@ -1,5 +1,5 @@
 aura_env.emerald_dream = {--2200
-    {id = "a_worthy_ally_dream_wardens", name = "A Worthy Ally: Dream Wardens", quests = {75665}},
+    {id = "a_worthy_ally_dream_wardens", name = "A Worthy Ally: Dream Wardens", quests = {78444}},
     {id = "the_superbloom", name = "The Superbloom", quests = {78319, 79082}},
     {id = "shipment_of_goods", name = "Shipment of Goods", quests = {78427, 78428}},
     {id = "reputation_quests", name = "Reputation Quests", quests = {78821, 78381, 78262, 76460, 77911, 77922, 76568, 77739, 78042, 78043, 78163, 77978, 77310, 77948, 77316}, completed_on = 15},
