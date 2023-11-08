@@ -8,7 +8,8 @@ function(states, event, core_event, ...)
         
         if in_zone then
             for i, entry in pairs(entries) do
-                if entry.id and aura_env.config["hide_" .. entry.id] then
+                if entry.id and aura_env.config["hide_" .. entry.id] or
+                not entry.elite and aura_env.config["show_only_elites"] and name == "Emerald Dream Rares" then
                     entries[i] = nil
                 else
                     entry.zone_id = zone_id
