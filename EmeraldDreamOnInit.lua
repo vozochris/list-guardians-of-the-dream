@@ -6,6 +6,7 @@ aura_env.emerald_dream = {--2200
     {id = "reputation_quests", name = "Reputation Quests", quests = {77978, 77318, 77958, 77802, 78066, 78046, 77675, 77315, 76465, 77178}, completed_on = 10},
     {id = "surging_lasher", name = "Surging Lasher", quests = {78263}},
     {id = "world_boss", name = "World Boss", quests = {76367}},
+    {id = "dream_infusion", name = "Dream Infusion", quests = {78598}},
 }
 
 aura_env.emerald_dream_rares = {--2200
