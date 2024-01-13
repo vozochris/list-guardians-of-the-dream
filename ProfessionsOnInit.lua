@@ -232,7 +232,7 @@ aura_env.tailoring = {
     -- weekly
     {name = "Treatise", quests = {74115}},
     {name = "Profession Trainer Quest", quests = {70582, 70586, 70572, 70587}, coords = "Valdrakken 31.91 67.18"},
-    {name = "Consortium Trade Quest", quests = {72410, 66952, 66953, 75407, 75600, 66899, 77947}, coords = "Valdrakken 36.84 62.95"},
+    {name = "Consortium Trade Quest", quests = {72410, 66952, 66953, 75407, 75600, 66899, 77947, 77949}, coords = "Valdrakken 36.84 62.95"},
     {name = "Work Orders Quest", quests = {70595}, coords = "Valdrakken 35.37 58.79"},
 
     -- items
