@@ -84,7 +84,7 @@ aura_env.engineering = {
     -- weekly
     {name = "Treatise", quests = {74111}},
     {name = "Profession Trainer Quest", quests = {70539, 70540, 70557, 70545}, coords = "Valdrakken 42.25 48.62"},
-    {name = "Consortium Trade Quest", quests = {66891, 66890, 66942, 72396, 75575, 75608, 77891}, coords = "Valdrakken 36.84 62.95"},
+    {name = "Consortium Trade Quest", quests = {66891, 66890, 66942, 72396, 75575, 75608, 77891, 77938}, coords = "Valdrakken 36.84 62.95"},
     {name = "Work Orders Quest", quests = {70591}, coords = "Valdrakken 35.37 58.79"},
 
     -- items
